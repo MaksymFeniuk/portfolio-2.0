@@ -33,10 +33,10 @@ body {
     width: 1450px;
     height: 1px;
 }
-.div {
+.year {
     position: absolute;
     top: 2px;
-    right: 350px;
+    right: 330px;
 }
 .media-design {
     position: absolute;
@@ -91,7 +91,7 @@ body {
     width: 197px;
     height: 60px;
 }
-.rectangle-div {
+.rectangle {
     position: absolute;
     top: 1436px;
     left: 450px;
