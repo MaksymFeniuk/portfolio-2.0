@@ -110,7 +110,7 @@ body {
 .about {
     position: absolute;
     top: 2020px;
-    left: 698px;
+    left: 699px;
     font-size: 60px;
     display: inline-block;
     text-align: center;
@@ -119,7 +119,7 @@ body {
 }
 .me {
     position: absolute;
-    top: 2090px;
+    top: 2100px;
     left: 838.5px;
     font-size: 60px;
     line-height: 69.18%;
