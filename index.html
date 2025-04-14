@@ -24,7 +24,7 @@
       			<div class="media-design">Media Design</div>
       			<div class="portfolio1">Portfolio</div>
     		</div>
-    		<img class="afd221668cb30908ca591c407115a-icon" alt="deeper" src="img/deeper2.jpg" data-scroll-to="afd221668cb30908ca591c407115aImage">
+    		<img class="afd221668cb30908ca591c407115a-icon" alt="deeper" src="img/deeper2.png" data-scroll-to="afd221668cb30908ca591c407115aImage">
     		
     		<div class="portfolio-child">
     		</div>
@@ -37,12 +37,7 @@
     		<div class="portfolio-child1">
     		</div>
     		<div class="projects" data-scroll-to="projectsText">Projects</div>
-    		<b class="about">
-      			<span class="a">a</span>
-      			<span class="b">b</span>
-      			<span class="ou">ou</span>
-      			<span class="t">t</span>
-    		</b>
+    		<b class="about">about</b>
     		<b class="me">me</b>
     		<div class="portfolio-child2">
     		</div>
@@ -77,11 +72,13 @@
       			<div class="media-design">Media Design</div>
       			<div class="portfolio1">Portfolio</div>
     		</div>
-    		<img class="polygon-icon" alt="" src="img/arrow.png" id="polygon">
+    		<img class="polygon-icon" alt="arrow" src="img/arrow.png" id="polygon">
     		
-    		<img class="portfolio-child7" alt="" src="img/arrow2.png" id="polygon1">
+    		<img class="portfolio-child7" alt="arrow2" src="img/arrow2.png" id="polygon1">
+
+			<img class="polygon2-icon" alt="arrow3" src="img/arrow.png" id="polygon2">
     		
-    		<img class="maksym-1-icon" alt="" src="maksym.jpg">
+    		<img class="maksym-icon" alt="" src="img/maksym2.png">
     		
   	</div>
   	
@@ -118,6 +115,13 @@
 				var position = whiteBackground.getBoundingClientRect().top + window.pageYOffset + offset;
 				window.scrollTo({"top": position, "behavior": "smooth"});
 			}
+
+			var polygon2 = document.getElementById("polygon2");
+    if (polygon2) {
+        polygon2.addEventListener("click", function () {
+            window.scrollTo({ "top": 0, "behavior": "smooth" }); // Scroll to the very top of the page
+        });
+    }
 	</script>
 	</body>
 </html>

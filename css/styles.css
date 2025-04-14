@@ -97,16 +97,6 @@ body {
     width: 197px;
     height: 60px;
 }
-.portfolio-child1 {
-    position: absolute;
-    top: 1869px;
-    left: 350px;
-    background-color: #31517a;
-    border: 3px solid #fff;
-    box-sizing: border-box;
-    width: 322px;
-    height: 421px;
-}
 .projects {
     position: absolute;
     top: 939px;
@@ -114,22 +104,10 @@ body {
     font-size: 50px;
     color: #83a0ca;
 }
-.a {
-    line-height: 132%;
-}
-.b {
-    line-height: 99%;
-}
-.ou {
-    line-height: 75%;
-}
-.t {
-    line-height: 88.04%;
-}
 .about {
     position: absolute;
-    top: 1869px;
-    left: 624px;
+    top: 2020px;
+    left: 698px;
     font-size: 60px;
     display: inline-block;
     text-align: center;
@@ -138,8 +116,8 @@ body {
 }
 .me {
     position: absolute;
-    top: 2168px;
-    left: 624px;
+    top: 2090px;
+    left: 838.5px;
     font-size: 60px;
     line-height: 69.18%;
     display: inline-block;
@@ -244,13 +222,23 @@ body {
     top: 1443px;
     left: 493px;
 }
+.portfolio-child1 {
+    position: absolute;
+    top: 1869px;
+    left: 350px;
+    background-color: #31517a;
+    border: 3px solid #fff;
+    box-sizing: border-box;
+    width: 322px;
+    height: 421px;
+}
 .hey-my-name {
     margin: 0;
 }
 .hey-my-name-container {
     position: absolute;
     top: 1885px;
-    left: 252px;
+    left: 360px;
     font-size: 24px;
     text-align: right;
     display: inline-block;
@@ -277,7 +265,7 @@ body {
 }
 .portfolio-child7 {
     position: absolute;
-    top: 1518px;
+    top: 1555px;
     left: 800px;
     border-radius: 4px;
     width: 62px;
@@ -285,13 +273,25 @@ body {
     object-fit: contain;
     cursor: pointer;
 }
-.maksym-1-icon {
+.polygon2-icon {
+    position: absolute;
+    top: 1750px;
+    left: 800px;
+    border-radius: 4px;
+    width: 62px;
+    height: 52px;
+    object-fit: contain;
+    cursor: pointer;
+    transform: rotate(180deg);
+}
+.maksym-icon {
     position: absolute;
     top: 1869px;
-    left: 718px;
+    left: 950px;
     width: 304px;
     height: 421px;
     object-fit: cover;
+    border: white solid 3px;
 }
 .portfolio {
     width: 100%;
@@ -304,4 +304,3 @@ body {
     color: #fff;
     font-family: Jost;
 }
-
