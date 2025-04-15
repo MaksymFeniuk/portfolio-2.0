@@ -7,298 +7,298 @@ body {
     width: 100%;
     position: relative;
     background-color: #fff;
-    height: 2496px;
+    height: 298vh;
     text-align: left;
-    font-size: 30px;
+    font-size: 3.6vh;
     color: #fff;
     font-family: Jost;
 }
 .max2-2-icon {
     position: absolute;
-    top: 0px;
-    left: 0px;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100vh;
     object-fit: cover;
 }
 .group-child {
     position: absolute;
-    top: -0.5px;
-    left: 0.5px;
-    border-top: 2px solid #fff;
+    top: -0.5vh;
+    left: -0.06vh;
+    border-top: 0.2vh solid #fff;
     box-sizing: border-box;
-    width: 1450px;
-    height: 1px;
+    width: 173vh;
+    height: 0.12vh;
 }
 .group-item {
     position: absolute;
-    top: 33.5px;
-    left: -0.5px;
-    border-top: 2px solid #fff;
+    top: 4vh;
+    left: -0.06vh;
+    border-top: 0.2vh solid #fff;
     box-sizing: border-box;
-    width: 1450px;
-    height: 1px;
+    width: 173vh;
+    height: 0.12vh;
 }
 .year {
     position: absolute;
-    top: 2px;
-    right: 330px;
+    top: 0.2vh;
+    right: 39vh;
 }
 .media-design {
     position: absolute;
-    top: 2px;
-    left: 150px;
+    top: 0.2vh;
+    left: 18vh;
 }
 .portfolio1 {
     position: absolute;
-    top: 2px;
-    right: -200px;
+    top: 0.2vh;
+    right: -24vh;
 }
 .line-parent {
     position: absolute;
-    top: 60px;
-    left: 100px;
-    width: 1085px;
-    height: 35px;
-    font-size: 20px;
+    top: 7vh;
+    left: 12vh;
+    width: 130vh;
+    height: 4vh;
+    font-size: 2.5vh;
 }
 .deeper-icon {
     position: absolute;
-    top: 1658px;
-    left: 0px;
+    top: 201vh;
+    left: 0;
     width: 100%;
     height: 100vh;
     object-fit: cover;
 }
 .portfolio-child {
     position: absolute;
-    top: 1072px;
-    left: 450px;
-    border-radius: 12px;
+    top: 128vh;
+    left: 54vh;
+    border-radius: 1.4vh;
     background-color: #b7c2d4;
-    width: 197px;
-    height: 60px;
+    width: 23.5vh;
+    height: 7.2vh;
 }
 .portfolio-item {
     position: absolute;
-    top: 1193px;
-    left: 450px;
-    border-radius: 12px;
+    top: 142.5vh;
+    left: 53.7vh;
+    border-radius: 1.4vh;
     background-color: #83a0ca;
-    width: 197px;
-    height: 60px;
+    width: 23.5vh;
+    height: 7.16vh;
 }
 .portfolio-inner {
     position: absolute;
-    top: 1314px;
-    left: 450px;
-    border-radius: 12px;
+    top: 156.99vh;
+    left: 53.76vh;
+    border-radius: 1.4vh;
     background-color: #819bb7;
-    width: 197px;
-    height: 60px;
+    width: 23.53vh;
+    height: 7.17vh;
 }
 .rectangle {
     position: absolute;
-    top: 1436px;
-    left: 450px;
-    border-radius: 12px;
+    top: 171.56vh;
+    left: 53.76vh;
+    border-radius: 1.4vh;
     background-color: #31517a;
-    width: 197px;
-    height: 60px;
+    width: 23.53vh;
+    height: 7.17vh;
 }
 .projects {
     position: absolute;
-    top: 939px;
-    left: 465px;
-    font-size: 50px;
+    top: 112.18vh;
+    left: 55.55vh;
+    font-size: 5.97vh;
     color: #83a0ca;
 }
 .about {
     position: absolute;
-    top: 2020px;
-    left: 699px;
-    font-size: 60px;
+    top: 241.34vh;
+    left: 83.51vh;
+    font-size: 7.17vh;
     display: inline-block;
     text-align: center;
-    width: 39px;
-    height: 275px;
+    width: 4.66vh;
+    height: 32.85vh;
 }
 .me {
     position: absolute;
-    top: 2100px;
-    left: 838.5px;
-    font-size: 60px;
+    top: 250.89vh;
+    left: 100.179vh;
+    font-size: 7.168vh;
     line-height: 69.18%;
     display: inline-block;
     text-align: center;
-    width: 39px;
-    height: 107px;
+    width: 4.659vh;
+    height: 12.78vh;
 }
 .portfolio-child2 {
     position: absolute;
-    top: 1072px;
-    left: 1000px;
-    border-radius: 12px;
+    top: 128.07vh;
+    left: 119.47vh;
+    border-radius: 1.433vh;
     background-color: #b7c2d4;
-    width: 197px;
-    height: 60px;
+    width: 23.536vh;
+    height: 7.168vh;
 }
 .portfolio-child3 {
     position: absolute;
-    top: 1163px;
-    left: 1000px;
-    border-radius: 12px;
+    top: 138.948vh;
+    left: 119.47vh;
+    border-radius: 1.433vh;
     background-color: #83a0ca;
-    width: 197px;
-    height: 60px;
+    width: 23.536vh;
+    height: 7.168vh;
 }
 .portfolio-child4 {
     position: absolute;
-    top: 1254px;
-    left: 1000px;
-    border-radius: 12px;
+    top: 149.82vh;
+    left: 119.47vh;
+    border-radius: 1.433vh;
     background-color: #819bb7;
-    width: 197px;
-    height: 60px;
+    width: 23.536vh;
+    height: 7.168vh;
 }
 .portfolio-child5 {
     position: absolute;
-    top: 1345px;
-    left: 1000px;
-    border-radius: 12px;
+    top: 160.69vh;
+    left: 119.47vh;
+    border-radius: 1.433vh;
     background-color: #56789d;
-    width: 197px;
-    height: 60px;
+    width: 23.536vh;
+    height: 7.168vh;
 }
 .portfolio-child6 {
     position: absolute;
-    top: 1436px;
-    left: 1000px;
-    border-radius: 12px;
+    top: 171.56vh;
+    left: 119.47vh;
+    border-radius: 1.433vh;
     background-color: #31517a;
-    width: 197px;
-    height: 60px;
+    width: 23.536vh;
+    height: 7.168vh;
 }
 .learning-outcomes {
     position: absolute;
-    top: 938px;
-    left: 900px;
-    font-size: 50px;
+    top: 112.06vh;
+    left: 107.52vh;
+    font-size: 5.97vh;
     color: #83a0ca;
 }
 .lo-1 {
     position: absolute;
-    top: 1080px;
-    left: 1070px;
+    top: 129.03vh;
+    left: 127.837vh;
 }
 .lo-2 {
     position: absolute;
-    top: 1171px;
-    left: 1070px;
+    top: 139.9vh;
+    left: 127.837vh;
 }
 .lo-3 {
     position: absolute;
-    top: 1262px;
-    left: 1070px;
+    top: 150.77vh;
+    left: 127.837vh;
 }
 .lo-4 {
     position: absolute;
-    top: 1352px;
-    left: 1070px;
+    top: 161.529vh;
+    left: 127.837vh;
 }
 .lo-5 {
     position: absolute;
-    top: 1444px;
-    left: 1070px;
+    top: 172.52vh;
+    left: 127.837vh;
 }
 .ux {
     position: absolute;
-    top: 1201px;
-    left: 532px;
+    top: 143.48vh;
+    left: 63.56vh;
 }
 .branding {
     position: absolute;
-    top: 1080px;
-    left: 492px;
+    top: 129.03vh;
+    left: 58.78vh;
 }
 .development {
     position: absolute;
-    top: 1322px;
-    left: 466px;
+    top: 157.945vh;
+    left: 55.67vh;
 }
 .project-x {
     position: absolute;
-    top: 1443px;
-    left: 493px;
+    top: 172.4vh;
+    left: 58.9vh;
 }
 .portfolio-child1 {
     position: absolute;
-    top: 1869px;
-    left: 350px;
+    top: 223.29vh;
+    left: 41.8vh;
     background-color: #31517a;
-    border: 3px solid #fff;
+    border: 0.358vh solid #fff;
     box-sizing: border-box;
-    width: 322px;
-    height: 421px;
+    width: 38.47vh;
+    height: 50.29vh;
 }
 .hey-my-name {
     margin: 0;
 }
 .hey-my-name-container {
     position: absolute;
-    top: 1885px;
-    left: 360px;
-    font-size: 24px;
+    top: 225.209vh;
+    left: 43.01vh;
+    font-size: 2.86vh;
     text-align: right;
     display: inline-block;
-    width: 297px;
-    height: 390px;
+    width: 35.48vh;
+    height: 46.59vh;
 }
 .line-group {
     position: absolute;
-    top: 2406px;
-    left: 97px;
-    width: 1085px;
-    height: 34px;
-    font-size: 20px;
+    top: 287.45vh;
+    left: 11.58vh;
+    width: 129.62vh;
+    height: 4.06vh;
+    font-size: 2.389vh;
 }
 .polygon-icon {
     position: absolute;
-    top: 718px;
-    left: 800px;
-    border-radius: 4px;
-    width: 62px;
-    height: 52px;
+    top: 85.78vh;
+    left: 95.579vh;
+    border-radius: 0.477vh;
+    width: 7.407vh;
+    height: 6.212vh;
     object-fit: contain;
     cursor: pointer;
 }
 .portfolio-child7 {
     position: absolute;
-    top: 1555px;
-    left: 800px;
-    border-radius: 4px;
-    width: 62px;
-    height: 52px;
+    top: 185.78vh;
+    left: 95.57vh;
+    border-radius: 0.477vh;
+    width: 7.407vh;
+    height: 6.212vh;
     object-fit: contain;
     cursor: pointer;
 }
 .polygon2-icon {
     position: absolute;
-    top: 1750px;
-    left: 800px;
-    border-radius: 4px;
-    width: 62px;
-    height: 52px;
+    top: 209.08vh;
+    left: 95.579vh;
+    border-radius: 0.477vh;
+    width: 7.407vh;
+    height: 6.212vh;
     object-fit: contain;
     cursor: pointer;
     transform: rotate(180deg);
 }
 .maksym-icon {
     position: absolute;
-    top: 1869px;
-    left: 950px;
-    width: 304px;
-    height: 421px;
+    top: 223.297vh;
+    left: 113.5vh;
+    width: 36.32vh;
+    height: 50.29vh;
     object-fit: cover;
-    border: white solid 3px;
+    border: white solid 0.358vh;
 }
