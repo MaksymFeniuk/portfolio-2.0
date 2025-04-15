@@ -4,9 +4,15 @@ html {
 body {
     margin: 0;
     line-height: normal;
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2496px;
+    text-align: left;
+    font-size: 30px;
+    color: #fff;
+    font-family: Jost;
 }
-
-
 .max2-2-icon {
     position: absolute;
     top: 0px;
@@ -56,7 +62,7 @@ body {
     height: 35px;
     font-size: 20px;
 }
-.afd221668cb30908ca591c407115a-icon {
+.deeper-icon {
     position: absolute;
     top: 1658px;
     left: 0px;
@@ -295,15 +301,4 @@ body {
     height: 421px;
     object-fit: cover;
     border: white solid 3px;
-}
-.portfolio {
-    width: 100%;
-    position: relative;
-    background-color: #fff;
-    height: 2496px;
-    overflow: hidden;
-    text-align: left;
-    font-size: 30px;
-    color: #fff;
-    font-family: Jost;
 }

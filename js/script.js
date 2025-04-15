@@ -13,7 +13,7 @@ var polygon = document.getElementById("polygon");
 			var polygon1 = document.getElementById("polygon1");
 			if(polygon1) {
 				polygon1.addEventListener("click", function () {
-						var anchor = document.querySelector("[data-scroll-to='afd221668cb30908ca591c407115aImage']");
+						var anchor = document.querySelector("[data-scroll-to='deeperImage']");
 						if(anchor) {
 							var position = anchor.getBoundingClientRect().bottom + window.pageYOffset;
 							window.scrollTo({"top": position, "behavior": "smooth"});
