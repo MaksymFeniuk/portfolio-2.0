@@ -43,16 +43,19 @@ body {
     position: absolute;
     top: 0.2vh;
     right: 39vh;
+    pointer-events: none;
 }
 .media-design {
     position: absolute;
     top: 0.2vh;
     left: 18vh;
+    pointer-events: none;
 }
 .portfolio1 {
     position: absolute;
     top: 0.2vh;
     right: -24vh;
+    pointer-events: none;
 }
 .line-parent {
     position: absolute;
@@ -190,46 +193,55 @@ body {
     position: absolute;
     top: 129.03vh;
     left: 127.837vh;
+    pointer-events: none;
 }
 .lo-2 {
     position: absolute;
     top: 139.9vh;
     left: 127.837vh;
+    pointer-events: none;
 }
 .lo-3 {
     position: absolute;
     top: 150.77vh;
     left: 127.837vh;
+    pointer-events: none;
 }
 .lo-4 {
     position: absolute;
     top: 161.529vh;
     left: 127.837vh;
+    pointer-events: none;
 }
 .lo-5 {
     position: absolute;
     top: 172.52vh;
     left: 127.837vh;
+    pointer-events: none;
 }
 .branding {
     position: absolute;
     top: 129.03vh;
     left: 58.78vh;
+    pointer-events: none;
 }
 .ux {
     position: absolute;
     top: 143.48vh;
     left: 63.56vh;
+    pointer-events: none;
 }
 .development {
     position: absolute;
     top: 157.945vh;
     left: 55.67vh;
+    pointer-events: none;
 }
 .project-x {
     position: absolute;
     top: 172.4vh;
     left: 58.9vh;
+    pointer-events: none;
 }
 .portfolio-child1 {
     position: absolute;
