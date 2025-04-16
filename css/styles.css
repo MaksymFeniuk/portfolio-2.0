@@ -106,13 +106,6 @@ body {
     width: 23.53vh;
     height: 7.17vh;
 }
-.projects {
-    position: absolute;
-    top: 112.18vh;
-    left: 55.55vh;
-    font-size: 5.97vh;
-    color: #83a0ca;
-}
 .about {
     position: absolute;
     top: 241.34vh;
@@ -179,6 +172,13 @@ body {
     width: 23.536vh;
     height: 7.168vh;
 }
+.projects {
+    position: absolute;
+    top: 112.18vh;
+    left: 55.55vh;
+    font-size: 5.97vh;
+    color: #83a0ca;
+}
 .learning-outcomes {
     position: absolute;
     top: 112.06vh;
@@ -211,15 +211,15 @@ body {
     top: 172.52vh;
     left: 127.837vh;
 }
-.ux {
-    position: absolute;
-    top: 143.48vh;
-    left: 63.56vh;
-}
 .branding {
     position: absolute;
     top: 129.03vh;
     left: 58.78vh;
+}
+.ux {
+    position: absolute;
+    top: 143.48vh;
+    left: 63.56vh;
 }
 .development {
     position: absolute;
@@ -227,6 +227,11 @@ body {
     left: 55.67vh;
 }
 .project-x {
+    position: absolute;
+    top: 172.4vh;
+    left: 58.9vh;
+}
+.other-stuff  {
     position: absolute;
     top: 172.4vh;
     left: 58.9vh;
