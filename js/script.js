@@ -34,8 +34,3 @@ if (whiteBackground) {
             window.scrollTo({ "top": 0, "behavior": "smooth" });
         });
     }
-
-    function scrollToMiddle() {
-		const middlePosition = document.body.scrollHeight / 2; // Calculate the middle of the page
-		window.scrollTo({ top: middlePosition, behavior: 'smooth' }); // Scroll to the middle
-	}
